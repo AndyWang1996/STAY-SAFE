@@ -1,5 +1,5 @@
 # STAY-SAFE
-# the summer project of COMP NL2019 UCD
+# Summer project of COMP NL2019 UCD
 # member: yikai.wang 15206086 andywang1996
 # member: zhao.yuan 15206161 
 # member: ning.tao 15205926 TonBatbaatar
